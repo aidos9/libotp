@@ -1,8 +1,8 @@
 [package]
 name = "lotp"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["aidos9 <20310468+aidos9@users.noreply.github.com>"]
-edition = "2018"
+edition = "2021"
 description = "A Rust library with support for HOTP and TOTP one time password generations."
 license-file = "LICENSE"
 homepage = "https://github.com/aidos9/lotp"
